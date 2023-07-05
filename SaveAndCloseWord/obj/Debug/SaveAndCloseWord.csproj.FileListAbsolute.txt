@@ -1,0 +1,7 @@
+\\wolfedata\userdata\sebastianroces\my documents\visual studio 2015\Projects\SaveAndCloseWord\SaveAndCloseWord\bin\Debug\SaveAndCloseWord.exe.config
+\\wolfedata\userdata\sebastianroces\my documents\visual studio 2015\Projects\SaveAndCloseWord\SaveAndCloseWord\bin\Debug\SaveAndCloseWord.exe
+\\wolfedata\userdata\sebastianroces\my documents\visual studio 2015\Projects\SaveAndCloseWord\SaveAndCloseWord\bin\Debug\SaveAndCloseWord.pdb
+\\wolfedata\userdata\sebastianroces\my documents\visual studio 2015\Projects\SaveAndCloseWord\SaveAndCloseWord\obj\Debug\SaveAndCloseWord.exe
+\\wolfedata\userdata\sebastianroces\my documents\visual studio 2015\Projects\SaveAndCloseWord\SaveAndCloseWord\obj\Debug\SaveAndCloseWord.pdb
+\\wolfedata\userdata\sebastianroces\my documents\visual studio 2015\Projects\SaveAndCloseWord\SaveAndCloseWord\obj\Debug\SaveAndCloseWord.csproj.ResolveComReference.cache
+\\Wolfedata\userdata\SebastianRoces\My Documents\Visual Studio 2015\Projects\SaveAndCloseWord\SaveAndCloseWord\obj\Debug\SaveAndCloseWord.csprojResolveAssemblyReference.cache
